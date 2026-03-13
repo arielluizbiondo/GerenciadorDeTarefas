@@ -39,7 +39,10 @@ Ele permite registrar tarefas, visualizar tarefas cadastradas e marcar tarefas c
 ---
 
 # 👨‍💻 Autor
+Desenvolvido by Ariel Biondo
 
-Desenvolvido por **Ariel Biondo**
+GitHub:
+https://github.com/arielluizbiondo
 
-🔗 GitHub: https://github.com/arielluizbiondo
+Portifólio:
+https://arielluizbiondo.netlify.app/
